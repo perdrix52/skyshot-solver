@@ -1,0 +1,2 @@
+stb_image.h (https://github.com/nothings/stb) by Sean Barrett and contributors is in the public
+domain (alternatively MIT licensed); see the end of stb_image.h for the license text.
